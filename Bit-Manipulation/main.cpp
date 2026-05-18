@@ -4,7 +4,7 @@
 #include <sstream>
 
 using std::cout, std::endl, std::cerr, std::getline;
-
+// Example: 20 | (1 << 7)
 // 32-bit machine binary representation
 //  1 = 0000 0000 0000 0000 0000 0000 0000 0001
 //  7 = 0000 0000 0000 0000 0000 0000 0000 0111
