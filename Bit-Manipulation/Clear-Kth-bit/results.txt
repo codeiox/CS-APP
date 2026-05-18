@@ -1,0 +1,6 @@
+Output: 20, TEST PASS!
+Output: 230, TEST PASS!
+Output: 521, TEST PASS!
+Output: 0, TEST PASS!
+Output: 0, TEST PASS!
+Output: 20, TEST PASS!
